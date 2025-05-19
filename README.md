@@ -4,11 +4,9 @@
 
 
 
-- 🌱 I’m currently learning *Backend, Data Structure*
+- 🌱 I’m currently learning *App Development*
 
 - 💬 Ask me about *DSA and Web Development*
-
-- 📫 How to reach me *amankumar190203@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
