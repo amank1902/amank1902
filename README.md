@@ -3,11 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
 
-
-- 🌱 I’m currently learning *App Development*
-
-- 💬 Ask me about *DSA and Web Development*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Aman190202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aman190202" height="30" width="40" /></a>
